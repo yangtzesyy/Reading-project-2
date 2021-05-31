@@ -1,0 +1,18 @@
+---
+title: "读书笔记：散论文"
+author: 
+  - Yuyang Shi
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+description: "To know China Better"
+documentclass: book
+
+---
+
+# Contact info
+
+yangtzesyy@gmail.com
+
+
+
